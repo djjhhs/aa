@@ -7,5 +7,6 @@ package com.git.test;
 public class first {
     public static void main(String[] args) {
         System.out.println("耗时啊");
+        System.out.println("正常合并分支");
     }
 }
