@@ -9,5 +9,6 @@ public class first {
         System.out.println("耗时啊");
         System.out.println("第二次提交了：生成第二个版本");
         System.out.println("第三个版本了");
+        System.out.println("第二个正式的版本");
     }
 }
